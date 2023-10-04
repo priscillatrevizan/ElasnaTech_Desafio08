@@ -4,21 +4,72 @@
         <meta charset="utf-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <link rel="stylesheet" href="/Styles/CSS/style.css"/>
+        <link rel="stylesheet" href="style.css"/>
         
         <title>Super Mário Jump</title>
    
-        <link rel="shortcut icon" href="/Styles/ico/carnivorous-plant.ico" type="image/x-icon">        
+        <link rel="shortcut icon" href="assets/ico/carnivorous-plant.ico" type="image/x-icon">        
 </head>
 <body>
+    <header id="header">
+        <div id="logo-container">
+            <img id="logo" src="assets/img/mario_logo.png" alt="Logo">
+        </div>
+        <nav id="nav">
+            <button id="btn-mobile" aria-label="Abrir Menu" aria-haspopup="true" aria-controls="menu" aria-expanded="false">Menu
+                <span id="hamburguer"></span>
+            </button>
+            <ul id="menu" role="menu">
+                <li><a href="" target="_blank">PAGINA 01</a></li>
+                <li><a href="" target="_blank">PAGINA 02</a></li>
+                <li><a href="" target="_blank">PAGINA 03</a></li>
+            </ul>
+        </nav>
+    </header>
+
     <div class="game">
-        <p id="inputText">Elas na Tech ♡</p> <p id="Text2">Priscilla Trevizan</p>   
-      
-        <img src="/Styles/images/clouds-gamer.png" class="cloud-game"/>
-        <img src="/Styles/images/super-mario.gif" class="mario jump"/>
-        <img src="/Styles/images/pipe-game.png" class="pipe"/>
+        <img src="assets/img/clouds-gamer.png" class="cloud-game"/>
+        <img src="assets/img/super-mario.gif" class="mario jump"/>
+        <img src="assets/img/pipe-game.png" class="pipe"/>
     </div>
 </body>
-<script src="/JS/script.js"></script>
 
+<footer>
+    <div class="contacts-footer">
+        <div>
+            <a href="https://github.com/priscillatrevizan" target="_blank">
+            <img src="assets/img/github.png" alt="logo-github" id="ico-social">
+            </a>
+        </div>
+
+        <div>
+            <a href="https://www.linkedin.com/in/priscillatrevizan/" target="_blank">
+            <img src="assets/img/linkedin.png" alt="logo-linkedin" id="ico-social">
+            </a>
+        </div>
+
+        <div>
+            <a href="https://medium.com/@priscillatrevizan" target="_blank">
+            <img src="assets/img/medium.png" alt="logo-medium" id="ico-social">
+            </a>
+        </div>
+
+        <div>
+            <a href="https://www.instagram.com/priscillatrevizan/" target="_blank">
+                <img src="assets/img/instagram.png" alt="logo-instagram" id="ico-social">
+            </a>
+        </div>
+
+        <div>
+            <a href="https://www.behance.net/priscillatrevizan" target="_blank">
+                <img src="assets/img/social.png" alt="logo-behance" id="ico-social">
+            </a>            
+        </div>
+    </div>
+ 
+    <p>Elas na Tech 🎔 2023</p>
+</footer>
+
+<script src="script.js"></script>
+<script src="toggle.js"></script>
 </html>

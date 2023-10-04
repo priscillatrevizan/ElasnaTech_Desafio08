@@ -1,11 +1,19 @@
+# ElasnaTech_Desafio08
+Aula 13 - Desafio 08
 
 # Projeto Mario Jump - Salto para a Diversão!  
 # 🍄
 
 Bem-vindo ao Projeto Mario Jump, onde a diversão encontra o desenvolvimento web de maneira criativa! Este projeto foi criado com o propósito de proporcionar uma prática envolvente de CSS e JavaScript, enquanto exploramos um clássico dos videogames de uma forma totalmente nova. E não é só isso, este README também é parte da diversão - então, continue lendo para descobrir mais!
+
 ## O jogo esta disponível em:
 
-https://mario-jump-gamma.vercel.app/
+## Sobre o Desafio
+
+Criar uma página com menu e footer responsivo, contendo:
+- Logo
+- Menu Hambúrguer para mobile e Navbar para Desktop
+- Footer com icones linkáveis
 
 ## Sobre o Jogo  🎮
 
@@ -47,13 +55,12 @@ O Projeto Mario Jump foi criado como parte do desafio "Elas na Tech 2023". Proje
 ## Demonstração
 
 
-
-<img src="/Styles/gifs/MarioJump.gif">
+<img src="assets/MarioJump.gif">
 
 
 ## Etiquetas
 
-Deploy gratuito via: [Vercel](https://vercel.com/)
+Deploy gratuito via: [GithubPages](https://github.com/)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
