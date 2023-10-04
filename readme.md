@@ -6,13 +6,13 @@ Aula 13 - Desafio 08
 
 Bem-vindo ao Projeto Mario Jump, onde a diversão encontra o desenvolvimento web de maneira criativa! Este projeto foi criado com o propósito de proporcionar uma prática envolvente de CSS e JavaScript, enquanto exploramos um clássico dos videogames de uma forma totalmente nova. E não é só isso, este README também é parte da diversão - então, continue lendo para descobrir mais!
 
-## O jogo esta disponível em:
+## O jogo esta disponível em: https://priscillatrevizan.github.io/ElasnaTech_Desafio08/ 
 
 ## Sobre o Desafio
 
 Criar uma página com menu e footer responsivo, contendo:
 - Logo
-- Menu Hambúrguer para mobile e Navbar para Desktop
+- Menu Hambúrguer para telas até 767px, e Navbar para telas acima de 768px
 - Footer com icones linkáveis
 
 ## Sobre o Jogo  🎮
@@ -20,6 +20,8 @@ Criar uma página com menu e footer responsivo, contendo:
  No **Projeto Mario Jump**, você está prestes a embarcar em uma aventura emocionante pelo Reino dos Códigos! O objetivo é simples: ajudar o nosso querido encanador, Mario, a saltar sobre obstáculos desafiadores. Mas aqui está o toque especial - para dar início ao pulo do Mario, você não apenas aperta, mas triplica a tecla "Enter" em rápida sucessão! E é a mesma tecla "Enter" que você usará para fazer o Mario saltar sobre os obstáculos enquanto eles se aproximam.
 
 ## Instruções de Jogo 🕹️
+
+**JOGO PARA DESKTOP**
 
 1- **Triplo Toque:** Pressione a tecla "Enter" três vezes rapidamente para fazer o Mario saltar.
 
